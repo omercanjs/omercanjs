@@ -27,7 +27,7 @@ class NodeJSMagician {
     }
 }
 ```
-# 🛠️ Yeteneklerim
+# 🛠️ Bildiklerim
 - Node.js
 - Express.js
 - MySQL
